@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:5CB88EC2-FDDB-4651-A4C0-9A69554224C5</id>
  <title>Page list Atom feed</title>
- <updated>2025-12-21T14:04:35-08:00</updated>
+ <updated>2025-12-21T15:56:00-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -10,20 +10,20 @@
  </author>
  <entry>
   <id>urn:iweb:B0445F39-78E0-48C0-98D5-12C234B6457E</id>
-  <title>Main</title>
-  <title xmlns="urn:iweb:">Main</title>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">B0445F39-78E0-48C0-98D5-12C234B6457E</in-navbar>
-  <link rel="alternate" href="Main.html"/>
-  <updated>2025-12-21T14:04:35.001-08:00</updated>
-  <content>Main</content>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2025-12-21T15:56:00.001-08:00</updated>
+  <content>Home</content>
  </entry>
  <entry>
   <id>urn:iweb:5C7C68E5-10ED-437D-BCE8-D5E4D6647E5F</id>
-  <title>Movie</title>
-  <title xmlns="urn:iweb:">Movie</title>
+  <title>Computer</title>
+  <title xmlns="urn:iweb:">Computer</title>
   <in-navbar xmlns="urn:iweb:">5C7C68E5-10ED-437D-BCE8-D5E4D6647E5F</in-navbar>
-  <link rel="alternate" href="Movie.html"/>
-  <updated>2025-12-21T14:04:35.002-08:00</updated>
-  <content>Movie</content>
+  <link rel="alternate" href="Computer.html"/>
+  <updated>2025-12-21T15:56:00.002-08:00</updated>
+  <content>Computer</content>
  </entry>
 </feed>

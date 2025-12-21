@@ -4,12 +4,35 @@
 .style_1 {
     padding: 0px;
 }
-.style_SkipStroke_2 {
-    background: rgb(192, 192, 192);
-    opacity: 1.00;
-}
 .style_2 {
     padding: 0px;
+}
+.paragraph_style {
+    color: rgb(0, 0, 0);
+    font-family: 'Seravek-Light', 'Seravek';
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_External_310_225 {
+    bottom: 0px;
+    position: relative;
+    width: 310px;
 }
 .style_External_145_43 {
     bottom: 0px;
@@ -24,25 +47,20 @@
     background: transparent;
     opacity: 1.00;
 }
-.style_External_515_43 {
-    bottom: 0px;
-    position: absolute;
-    width: 515px;
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
 }
 .style_SkipStroke_3 {
     background: transparent;
     opacity: 1.00;
 }
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_310_134 {
+.style_External_515_43 {
     bottom: 0px;
-    position: relative;
-    width: 310px;
+    position: absolute;
+    width: 515px;
 }
-.Body {
+.Free_Form {
     color: rgb(81, 81, 81);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
     font-size: 12px;
@@ -51,7 +69,7 @@
     font-variant: normal;
     font-weight: 400;
     letter-spacing: 0;
-    line-height: 17px;
+    line-height: 14px;
     margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
@@ -111,17 +129,17 @@
 .Normal {
     padding: 0px;
 }
-.Normal_External_310_134 {
-    bottom: 0px;
-    position: absolute;
-    width: 310px;
-}
 .Normal_External_515_43 {
     bottom: 0px;
     position: absolute;
     width: 515px;
 }
 .Normal_External_310_17 {
+    bottom: 0px;
+    position: absolute;
+    width: 310px;
+}
+.Normal_External_310_225 {
     bottom: 0px;
     position: absolute;
     width: 310px;
@@ -160,21 +178,11 @@
     background: transparent;
     opacity: 1.00;
 }
-.graphic_shape_layout_style_default {
+.graphic_textbox_layout_style_default {
     padding: 4px;
-}
-.graphic_shape_layout_style_default_External_340_276 {
-    position: relative;
-}
-.graphic_shape_style_default_SkipStroke {
-    background: rgb(183, 97, 78);
-    opacity: 1.00;
 }
 .graphic_textbox_layout_style_default_External_145_43 {
     position: relative;
-}
-.graphic_textbox_layout_style_default {
-    padding: 4px;
 }
 .graphic_textbox_style_default_SkipStroke {
     background: transparent;
