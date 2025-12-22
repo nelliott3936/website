@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <id>urn:iweb:5CB88EC2-FDDB-4651-A4C0-9A69554224C5</id>
+ <id>urn:iweb:D30E1727-3012-411C-A0DF-20477FDDC268</id>
  <title>Page list Atom feed</title>
- <updated>2025-12-21T15:56:00-08:00</updated>
+ <updated>2025-12-22T12:12:32-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
   <name>iWeb</name>
  </author>
  <entry>
-  <id>urn:iweb:B0445F39-78E0-48C0-98D5-12C234B6457E</id>
-  <title>Home</title>
-  <title xmlns="urn:iweb:">Home</title>
-  <in-navbar xmlns="urn:iweb:">B0445F39-78E0-48C0-98D5-12C234B6457E</in-navbar>
-  <link rel="alternate" href="Home.html"/>
-  <updated>2025-12-21T15:56:00.001-08:00</updated>
-  <content>Home</content>
- </entry>
- <entry>
-  <id>urn:iweb:5C7C68E5-10ED-437D-BCE8-D5E4D6647E5F</id>
-  <title>Computer</title>
-  <title xmlns="urn:iweb:">Computer</title>
-  <in-navbar xmlns="urn:iweb:">5C7C68E5-10ED-437D-BCE8-D5E4D6647E5F</in-navbar>
-  <link rel="alternate" href="Computer.html"/>
-  <updated>2025-12-21T15:56:00.002-08:00</updated>
-  <content>Computer</content>
+  <id>urn:iweb:132228D8-37DC-4FE9-8F03-2207C205DD75</id>
+  <title>Welcome</title>
+  <title xmlns="urn:iweb:">Welcome</title>
+  <in-navbar xmlns="urn:iweb:">132228D8-37DC-4FE9-8F03-2207C205DD75</in-navbar>
+  <link rel="alternate" href="Welcome.html"/>
+  <updated>2025-12-22T12:12:32.001-08:00</updated>
+  <content>Welcome</content>
  </entry>
 </feed>
