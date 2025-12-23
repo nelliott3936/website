@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:D30E1727-3012-411C-A0DF-20477FDDC268</id>
  <title>Page list Atom feed</title>
- <updated>2025-12-23T11:06:21-05:00</updated>
+ <updated>2025-12-23T13:43:53-05:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">Welcome</title>
   <in-navbar xmlns="urn:iweb:">132228D8-37DC-4FE9-8F03-2207C205DD75</in-navbar>
   <link rel="alternate" href="Welcome.html"/>
-  <updated>2025-12-23T11:06:21.001-05:00</updated>
+  <updated>2025-12-23T13:43:53.001-05:00</updated>
   <content>Welcome</content>
  </entry>
  <entry>
@@ -23,7 +23,16 @@
   <title xmlns="urn:iweb:">Macs</title>
   <in-navbar xmlns="urn:iweb:">66B9F536-EAD0-4819-A055-41780F49C666</in-navbar>
   <link rel="alternate" href="Macs.html"/>
-  <updated>2025-12-23T11:06:21.002-05:00</updated>
+  <updated>2025-12-23T13:43:53.002-05:00</updated>
   <content>Macs</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:B6B83AB7-C4E4-411B-9E86-0C573C283814</id>
+  <title>Will RSS Work?</title>
+  <title xmlns="urn:iweb:">Will RSS Work?</title>
+  <in-navbar xmlns="urn:iweb:">B6B83AB7-C4E4-411B-9E86-0C573C283814</in-navbar>
+  <link rel="alternate" href="Will_RSS_Work.html"/>
+  <updated>2025-12-23T13:43:53.003-05:00</updated>
+  <content>Will RSS Work?</content>
  </entry>
 </feed>
