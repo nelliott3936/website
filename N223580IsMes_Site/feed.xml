@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:5CB88EC2-FDDB-4651-A4C0-9A69554224C5</id>
  <title>Page list Atom feed</title>
- <updated>2025-12-21T15:56:00-08:00</updated>
+ <updated>2025-12-24T09:19:12-08:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,16 +14,16 @@
   <title xmlns="urn:iweb:">Home</title>
   <in-navbar xmlns="urn:iweb:">B0445F39-78E0-48C0-98D5-12C234B6457E</in-navbar>
   <link rel="alternate" href="Home.html"/>
-  <updated>2025-12-21T15:56:00.001-08:00</updated>
+  <updated>2025-12-24T09:19:12.001-08:00</updated>
   <content>Home</content>
  </entry>
  <entry>
-  <id>urn:iweb:5C7C68E5-10ED-437D-BCE8-D5E4D6647E5F</id>
-  <title>Computer</title>
-  <title xmlns="urn:iweb:">Computer</title>
-  <in-navbar xmlns="urn:iweb:">5C7C68E5-10ED-437D-BCE8-D5E4D6647E5F</in-navbar>
-  <link rel="alternate" href="Computer.html"/>
-  <updated>2025-12-21T15:56:00.002-08:00</updated>
-  <content>Computer</content>
+  <id>urn:iweb:E745CB79-AAA8-4A70-9191-37DBFABE575C</id>
+  <title>Blank</title>
+  <title xmlns="urn:iweb:">Blank</title>
+  <in-navbar xmlns="urn:iweb:">E745CB79-AAA8-4A70-9191-37DBFABE575C</in-navbar>
+  <link rel="alternate" href="Blank.html"/>
+  <updated>2025-12-24T09:19:12.002-08:00</updated>
+  <content>Blank</content>
  </entry>
 </feed>
